@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad6c33d0.css",
-    "main.js": "/static/js/main.b7347628.js",
-    "static/js/787.349b0e60.chunk.js": "/static/js/787.349b0e60.chunk.js",
-    "static/media/vr.png": "/static/media/vr.7775f12d873c0941e249.png",
-    "static/media/ais.png": "/static/media/ais.8adf161dc0051935e82d.png",
-    "static/media/google.png": "/static/media/google.430b7ba2fb0a342599ed.png",
-    "static/media/blog2.png": "/static/media/blog2.1a016590697309ae6146.png",
-    "static/media/blog4.png": "/static/media/blog4.5b5a618a62cda4b08cae.png",
-    "static/media/people.jpg": "/static/media/people.549adacbd4a2e8890455.jpg",
-    "static/media/blog1.png": "/static/media/blog1.9b0e73cdde755e5174ef.png",
-    "static/media/blog3.webp": "/static/media/blog3.7afc534c41fdb2584d3d.webp",
-    "static/media/amazon.png": "/static/media/amazon.586d2b1c6c5d29af2bd7.png",
-    "static/media/logo.jpg": "/static/media/logo.b50305e33729eafbdf55.jpg",
-    "static/media/blog5.png": "/static/media/blog5.81327c0d968d8eb97663.png",
-    "static/media/twitter.png": "/static/media/twitter.dab93d0b8860710bb5cd.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.ad6c33d0.css.map": "/static/css/main.ad6c33d0.css.map",
-    "main.b7347628.js.map": "/static/js/main.b7347628.js.map",
-    "787.349b0e60.chunk.js.map": "/static/js/787.349b0e60.chunk.js.map"
+    "main.css": "/notes/static/css/main.ad6c33d0.css",
+    "main.js": "/notes/static/js/main.86574d78.js",
+    "static/js/787.349b0e60.chunk.js": "/notes/static/js/787.349b0e60.chunk.js",
+    "static/media/vr.png": "/notes/static/media/vr.7775f12d873c0941e249.png",
+    "static/media/ais.png": "/notes/static/media/ais.8adf161dc0051935e82d.png",
+    "static/media/google.png": "/notes/static/media/google.430b7ba2fb0a342599ed.png",
+    "static/media/blog2.png": "/notes/static/media/blog2.1a016590697309ae6146.png",
+    "static/media/blog4.png": "/notes/static/media/blog4.5b5a618a62cda4b08cae.png",
+    "static/media/people.jpg": "/notes/static/media/people.549adacbd4a2e8890455.jpg",
+    "static/media/blog1.png": "/notes/static/media/blog1.9b0e73cdde755e5174ef.png",
+    "static/media/blog3.webp": "/notes/static/media/blog3.7afc534c41fdb2584d3d.webp",
+    "static/media/amazon.png": "/notes/static/media/amazon.586d2b1c6c5d29af2bd7.png",
+    "static/media/logo.jpg": "/notes/static/media/logo.b50305e33729eafbdf55.jpg",
+    "static/media/blog5.png": "/notes/static/media/blog5.81327c0d968d8eb97663.png",
+    "static/media/twitter.png": "/notes/static/media/twitter.dab93d0b8860710bb5cd.png",
+    "static/media/logo.svg": "/notes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/notes/index.html",
+    "main.ad6c33d0.css.map": "/notes/static/css/main.ad6c33d0.css.map",
+    "main.86574d78.js.map": "/notes/static/js/main.86574d78.js.map",
+    "787.349b0e60.chunk.js.map": "/notes/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad6c33d0.css",
-    "static/js/main.b7347628.js"
+    "static/js/main.86574d78.js"
   ]
 }
