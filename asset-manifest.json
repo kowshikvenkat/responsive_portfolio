@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/responsive_portfolio/static/css/main.ad6c33d0.css",
+    "main.js": "/responsive_portfolio/static/js/main.11fe3e1a.js",
+    "static/js/787.349b0e60.chunk.js": "/responsive_portfolio/static/js/787.349b0e60.chunk.js",
+    "static/media/vr.png": "/responsive_portfolio/static/media/vr.7775f12d873c0941e249.png",
+    "static/media/ais.png": "/responsive_portfolio/static/media/ais.8adf161dc0051935e82d.png",
+    "static/media/google.png": "/responsive_portfolio/static/media/google.430b7ba2fb0a342599ed.png",
+    "static/media/blog2.png": "/responsive_portfolio/static/media/blog2.1a016590697309ae6146.png",
+    "static/media/blog4.png": "/responsive_portfolio/static/media/blog4.5b5a618a62cda4b08cae.png",
+    "static/media/people.jpg": "/responsive_portfolio/static/media/people.549adacbd4a2e8890455.jpg",
+    "static/media/blog1.png": "/responsive_portfolio/static/media/blog1.9b0e73cdde755e5174ef.png",
+    "static/media/blog3.webp": "/responsive_portfolio/static/media/blog3.7afc534c41fdb2584d3d.webp",
+    "static/media/amazon.png": "/responsive_portfolio/static/media/amazon.586d2b1c6c5d29af2bd7.png",
+    "static/media/logo.jpg": "/responsive_portfolio/static/media/logo.b50305e33729eafbdf55.jpg",
+    "static/media/blog5.png": "/responsive_portfolio/static/media/blog5.81327c0d968d8eb97663.png",
+    "static/media/twitter.png": "/responsive_portfolio/static/media/twitter.dab93d0b8860710bb5cd.png",
+    "static/media/logo.svg": "/responsive_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/responsive_portfolio/index.html",
+    "main.ad6c33d0.css.map": "/responsive_portfolio/static/css/main.ad6c33d0.css.map",
+    "main.11fe3e1a.js.map": "/responsive_portfolio/static/js/main.11fe3e1a.js.map",
+    "787.349b0e60.chunk.js.map": "/responsive_portfolio/static/js/787.349b0e60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6c33d0.css",
+    "static/js/main.11fe3e1a.js"
+  ]
+}
